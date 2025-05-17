@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello, I’m Hugo  
-A Frontend Web Developer with experience in HTML, CSS, JavaScript, React.js, and Tailwind CSS.<br>I build responsive, user-focused web applications with clean and scalable code.<br>Currently expanding into Fullstack Development with Next.js and Flutter, and exploring technologies like blockchain and Web3.<br>I’m actively looking for job opportunities, building personal projects, and taking online courses to improve my skills.<br>Always eager to learn and passionate about creating innovative solutions that address real-world problems.
+A Frontend Web Developer with experience in HTML, CSS, JavaScript, React.js, and Tailwind CSS. I build responsive, user-focused web applications with clean and scalable code. Currently expanding into Fullstack Development with Next.js and Flutter, and exploring technologies like blockchain and Web3.<br>I’m actively looking for job opportunities, building personal projects, and taking online courses to improve my skills. Always eager to learn and passionate about creating innovative solutions that address real-world problems.
 
 
 # 🌐 Socials:
